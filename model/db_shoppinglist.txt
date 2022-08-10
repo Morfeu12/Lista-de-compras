@@ -1,0 +1,1 @@
+{'Leite': ['l', 2.0, True], 'laranja': ['un', 0, False], 'arroz': ['un', 3.0, False], 'margarina': ['un', 55.0, False], 'chocolate': ['g', 200.0, False], 'Pamonha': ['un', 1.0, False, '09/08/2022'], 'Lasanha': ['g', 400.0, False, '09/08/2022'], 'Shampoo': ['UND', 1.0, False, '09/08/2022']}
